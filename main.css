@@ -576,6 +576,7 @@ h3 span {
 #buy-amount {
     width: 20rem;
     height: 7rem;
+    display: flex;
     border: 4px solid #f08080;
     text-align: center;
     line-height: 6rem;
@@ -593,12 +594,12 @@ h3 span {
 
 
 .link-cart {
-    margin-left: 4rem;
+    margin-left: 2rem;
 }
 
 
 .btn-add {
-    width: 30rem;
+    width: 25rem;
     height: 7rem;
     font-size: 2.5rem;
     color: #fff;
